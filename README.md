@@ -2,6 +2,10 @@
 - [Powerpoint](https://github.com/toivoparnpuu/andmeturve/raw/main/c-turbeaspektid.pptx)
 - [PDF](https://github.com/toivoparnpuu/andmeturve/raw/main/c-turbeaspektid.pdf)
 
+## Secure Coding
+- [C](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+- [C++](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
+- [C# Secure coding guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
 ## Allikad ja soovitused
 - https://www.cprogramming.com/tutorial/secure.html
 - https://www.perforce.com/blog/qac/secure-coding-standards 
